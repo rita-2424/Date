@@ -34,7 +34,7 @@ npm install
 
 # Start the development server
 npm run dev
-
+```
 ## 🧹 Linting
 
 This project includes ESLint configuration with TypeScript and React rules. You can expand it further as needed.
@@ -54,7 +54,7 @@ extends: [
   "plugin:react/recommended",
   "plugin:react/jsx-runtime"
 ],
-
+```
 ## 🔗 Live Demo
 
 Check out the live version on CodeSandbox:  
